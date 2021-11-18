@@ -34,7 +34,6 @@ for i in range(len(text)):
         mylist[contact] =[]
 
 
-        #Ca fout la merde au niveau des dates, car le temps est séparé par : aussi.
         texttowrite = {
             "date":newi[1].split(": ")[1].strip(),
             "message":newi[4].split(":")[1].strip(),
