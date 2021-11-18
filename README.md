@@ -1,5 +1,5 @@
 # smsreader
-A python script to make meterpreter's sms_dump result file more readable. 
+A python script to make meterpreter's sms_dump result file sorted by date and more readable. 
 
 Usage : python3 smsreader.py SMSDUMPFILE
 
